@@ -1,4 +1,4 @@
-![Richard's children] 
+![Richard's children] (2007 A&Rslide.jpg)
 
 # TestGitHub
 Temporary repository for the course on 18th Dec 2018
