@@ -15,6 +15,6 @@ Some markdown practice
 3. list item 3
 4. list item 4
 
-This is a link  [https://www.otago.ac.nz/library]
+This is a [link] https://www.otago.ac.nz/library
 
 |column1|column2|column3|
