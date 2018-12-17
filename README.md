@@ -8,6 +8,8 @@ Some markdown practice
 
 ##  This is also a heading
 
+###  This is also a different heading
+
 1. Numbered list
 2. list item
 3. list item 3
