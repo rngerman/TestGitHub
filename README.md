@@ -1,5 +1,7 @@
+![Richard's children] 
+
 # TestGitHub
-Temporary repository for the course on18th Dec 2018
+Temporary repository for the course on 18th Dec 2018
 
 Some markdown practice
 # This is a heading
